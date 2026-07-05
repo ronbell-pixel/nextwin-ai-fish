@@ -1,0 +1,16 @@
+<svg width="390" height="112" viewBox="-10 -10 380 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="mark" transform="translate(4 6)">
+    <path d="M8 39C8 18.6 24.6 2 45 2h57c20.4 0 37 16.6 37 37s-16.6 37-37 37H54L22 86l8-17C16.8 63 8 51.4 8 39Z" fill="#FFFFFF" stroke="#2563EB" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M42 55V25h16l20 29V25h17v30h-16L59 27v28H42Z" fill="#0F172A"/>
+    <path d="M82 55L112 21l-4 19 18-1-31 35 4-20-17 1Z" fill="#2563EB"/>
+    <circle cx="120" cy="31" r="4.5" fill="#22C55E"/>
+    <circle cx="120" cy="44" r="4.5" fill="#22C55E"/>
+    <circle cx="120" cy="57" r="4.5" fill="#22C55E"/>
+  </g>
+  <g id="type" transform="translate(158 20)">
+    <text x="0" y="30" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="34" fill="#0F172A">Next</text>
+    <text x="83" y="30" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="34" fill="#2563EB">Win</text>
+    <text x="151" y="30" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="34" fill="#22C55E">AI</text>
+    <text x="1" y="55" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="9.4" letter-spacing="1.2" fill="#334155">AI THAT ANSWERS. AUTOMATES. ACCELERATES.</text>
+  </g>
+</svg>
