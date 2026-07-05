@@ -25,4 +25,4 @@ Open `index.html` in your browser.
 - Demo phone number is currently set to `314-406-8800`.
 - Replace `hello@nextwinai.com` with your email.
 - Replace the contact form with My AI Front Desk, GoHighLevel, HubSpot, Calendly, or your CRM form.
-- Add legal pages: Privacy Policy, Terms, AI Disclosure.
+- Add legal pages: Privacy Policy, Terms, AI Disclosure..
